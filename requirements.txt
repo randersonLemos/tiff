@@ -1,0 +1,4 @@
+iPython
+rasterio
+matplotlib
+pandas
