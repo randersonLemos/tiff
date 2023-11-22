@@ -2,3 +2,4 @@ iPython
 rasterio
 matplotlib
 pandas
+PyYaml
