@@ -1,0 +1,38 @@
+1  : Forest
+3  : Forest Formation
+4  : Savanna Formation
+5  : Mongrove
+6  : Floodable Forest (beta)
+49 : Wooded Sandbank Vegetation
+10 : Non Forest Natural Formation
+11 : Wetland
+12 : Grassland
+32 : Hypersaline Tidal Flat
+29 : Rocky Outcrop
+50 : Herbaceous Sandbank Vegetation
+13 : Other non Forest Formations
+14 : Farming
+15 : Pasture
+18 : Agriculture
+19 : Temporary Crop
+39 : Soybean
+20 : Sugar cane
+40 : Rice
+62 : Cotton (beta)
+41 : Other Temporary Crops
+36 : Perennial Crop
+46 : Coffe
+47 : Citrus
+35 : Palm Oil (beta)
+48 : Other Perennial Crops
+9  : Forest Plantation
+21 : Mosaic of Uses
+22 : Non vegetated area
+23 : Beach, Dune and Sand Spot
+24 : Urban Area
+30 : Mining
+25 : Other non Vegetated Areas
+26 : Water
+33 : River, Lake and Ocean
+31 : Aquaculture
+27 : Not Observed
